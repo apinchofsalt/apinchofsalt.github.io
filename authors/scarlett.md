@@ -1,9 +1,9 @@
 ---
 layout: page
-author: "Scarlet"
+author: "Scarlett"
 ---
 
-Hi, I am Scarlet!  
+Hi, I am Scarlett!  
 
 Here are my posts...
 
