@@ -1,6 +1,6 @@
 
 <div class="meta">
-	Posted by <a href="/authors/{{thePost.author}}/"> {{ thePost.author }} </a>
+	Posted by <a href="/authors/{{thePost.author | downcase}}/"> {{ thePost.author }} </a>
 	<span class="date">{% include post/date.html %}{{ time }}</span>
 	<span class="tags">{% include post/categories.html %}</span>
 </div>
