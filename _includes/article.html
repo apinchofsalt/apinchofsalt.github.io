@@ -1,0 +1,55 @@
+{% assign thePost = post %}
+
+{% unless thePost %}
+  {% assign thePost = page %}
+{% endunless %}
+
+<div class="widget Blog" data-version="1" id="Blog1">
+	<div class="blog-posts hfeed">
+			<div class="date-outer">
+
+					<div class="date-posts">
+
+							<div class="post-outer">
+									<div class="wrapfullpost">
+											<div class="post hentry">
+													<div class="post-header-line-1"></div>
+													<div class="post-body entry-content" itemprop="articleBody">
+															<div class="post-home">
+																	<div class="post-info">
+																			<div class="ininfo">
+																					<h2 class="post-title entry-title" itemprop="name">
+																							{% if index %}
+																							<a href="{{ thePost.url }}">
+																								{{ thePost.title }}
+																							</a>
+																							{% else %}
+																								{% if site.titlecase %}{{ thePost.title | titlecase }}{% else %}{{ thePost.title }}{% endif %}
+																							{% endif %}
+																					</h2>
+																					<div class="postmeta-primary">
+																						{% include post/meta.html %}
+																					</div>
+																					<div class="post-content">
+																						<div class="entry-content" itemprop="articleBody">
+																							{% if index %}
+																								{{ thePost.excerpt }}
+																								<a href="{{ post.url }}" class="more-link">{{ site.excerpt_link }}
+																									<i aria-hidden="true" class="fa fa-arrow-circle-right"></i>
+																								</a>
+																							{% else %}
+																								{{ content }}
+																							{% endif %}
+																						</div>
+																					</div>
+																			</div>
+																	</div>
+															</div>
+													</div>
+											</div>
+									</div>
+							</div>
+					</div>
+			</div>
+	</div>
+</div>

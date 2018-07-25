@@ -1,0 +1,50 @@
+
+  <div id="header-wrapper">
+    <div class="header section" id="header">
+      <div class="widget Header" data-version="1" id="Header1">
+        <div id="header-inner">
+          <div class="titlewrapper">
+            <h1 class="title">
+              <a href="{{site.url}}">&nbsp; {{ site.title }} &nbsp;</a>
+            </h1>
+          </div>
+          <div class="descriptionwrapper">
+            <p class="description">
+              <span>{{site.description}}</span>
+            </p>
+          </div>
+        </div>
+      </div>
+      <div class="widget LinkList" data-version="1" id="LinkList1">
+        <div class="nav">
+          <div class="widget-content">
+            <ul id="nav">
+              <li>
+                <a href="/">Home</a>
+              </li>
+              <li>
+                <a href="/categories">Categories</a>
+              </li>
+              <li>
+                <a href="/archive">Archive</a>
+              </li>
+              <li>
+                <a href="/about">About</a>
+              </li>
+            </ul>
+            <script type="text/javascript"> 
+              //<![CDATA[
+              //$("#LinkList100").each(function () { var e = "<ul id='nav'><li><ul>"; $("#LinkList100 li").each(function () { var t = $(this).text(), n = t.substr(0, 1), r = t.substr(1); "_" == n ? (n = $(this).find("a").attr("href"), e += '<li><a href="' + n + '">' + r + "</a></li>") : (n = $(this).find("a").attr("href"), e += '</ul></li><li><a href="' + n + '">' + t + "</a><ul>") }); e += "</ul></li></ul>"; $(this).html(e); $("#LinkList100 ul").each(function () { var e = $(this); if (e.html().replace(/\s|&nbsp;/g, "").length == 0) e.remove() }); $("#LinkList100 li").each(function () { var e = $(this); if (e.html().replace(/\s|&nbsp;/g, "").length == 0) e.remove() }) });
+
+              //$('li ul').parent().addClass('parent');
+
+
+
+            //]]>
+            </script>
+            <div class="clear"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>

@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+{% include head.html %}
+
+<body class="index">
+  {% include mobimenu.html %}
+  <div id="" class="">
+    <div class="top-bar">
+      <div class="margin-1200">
+        <div class="social-top">
+
+          <div class="mobile-menu-trigger">
+            <a class="nav-btn" href="#mobimenu">
+              <i aria-hidden="true" class="fa fa-list-ul"></i>
+            </a>
+          </div>
+          <!--Social Icons-->
+          <li>
+            <a href="#">
+              <i aria-hidden="true" class="fa fa-facebook"></i>
+            </a>
+          </li>
+          <li>
+            <a href="#">
+              <i aria-hidden="true" class="fa fa-pinterest"></i>
+            </a>
+          </li>
+          <li>
+            <a href="#">
+              <i aria-hidden="true" class="fa fa-youtube"></i>
+            </a>
+          </li>
+          <li>
+            <a href="#">
+              <i aria-hidden="true" class="fa fa-twitter"></i>
+            </a>
+          </li>
+          <li>
+            <a href="#">
+              <i aria-hidden="true" class="fa fa-google-plus"></i>
+            </a>
+          </li>
+          <li>
+            <a href="#">
+              <i aria-hidden="true" class="fa fa-instagram"></i>
+            </a>
+          </li>
+        </div>
+      </div>
+    </div>
+    <div class="margin-1200">
+      {% include page-header.html %}
+
+      <div id="content-wrapper">
+        <div id="main-wrapper">
+          <div class="main section" id="main">
+            {{ content }}
+          </div>
+        </div>
+      </div>
+      {% include page-footer.html %}
+
+    </div>
+  </div>
+</body>
+
+</html>

@@ -1,0 +1,80 @@
+.page-header .project-name a, .page-header .project-name a:visited {
+    color: #FFF;
+    text-decoration: none;
+}
+
+.main-content .archives h2.year{
+    font-weight: 300;
+    border-bottom: 1px solid #ddd;
+    position: relative;
+}
+
+.main-content .archives .meta{
+    display: inline-block;
+    font-size: 0.6em;
+    font-weight: 300;
+}
+
+.main-content .archives h3.title {
+    display: inline-block;
+    font-size: 0.9em;
+    font-weight: 400;
+}
+
+article .meta {
+    color: #999;
+    font-family: "Open Sans";
+    font-weight: 100;
+    font-size: 1em;
+    padding-bottom: 4px;
+}
+
+.meta .date:before { font: 1em FontAwesome;content: "\f073"; margin-left: 12px; }
+.meta .tags { padding-left: 6px; }
+.meta .tags:before { font: 1em FontAwesome;content: "\f02c"; margin-left: 12px; }
+
+#page-navigation {
+    font-family: arial;
+    font-size: small;
+    width: 100%;
+}
+#page-navigation div { display: inline-block }
+#page-navigation div.next { float: right }
+
+.tags-expo .tags-expo-list {
+    font-size: 0.9rem;
+}
+
+.tags-expo .tags-expo-list .post-tag {
+    margin: .2em .3em;
+}
+
+.post-tag {
+    display: inline-block;
+    background: rgba(106,159,181,0.15);
+    padding: 0 .5rem;
+    margin-right: .5rem;
+    border-radius: 4px;
+    color: #6a9fb5;
+    font-family: "PT Sans",Helvetica,Arial,sans-serif;
+    font-size: 90%;
+    -webkit-transition: all 0.1s ease-in-out;
+    -moz-transition: all 0.1s ease-in-out;
+    transition: all 0.1s ease-in-out;
+}
+
+.post-tag:before {
+    content: "\f02b";
+    font-family: FontAwesome;
+    padding-right: .5em;
+}
+
+.post-tag:hover {
+    text-decoration: none;
+    background: #6a9fb5;
+    color: #fff;
+}
+
+li.post-title {
+    list-style-type: none;
+}

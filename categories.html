@@ -1,0 +1,33 @@
+---
+layout: page
+title: Categories
+---
+
+<div class="tags-expo">
+  <div class="tags-expo-list">
+    {% assign sorted_tags = (site.categories | sort:0) %}
+    {% for tag in sorted_tags %}
+    <a href="#{{ tag[0] | slugify }}" class="post-tag">{{ tag[0] }}</a>
+    {% endfor %}
+  </div>
+  <hr/>
+  <div class="tags-expo-section">
+    {% for tag in sorted_tags %}
+    <h3 id="{{ tag[0] | slugify }}">{{ tag[0] }}</h3>
+    <ul class="tags-expo-posts">
+      {% for post in tag[1] %}
+      <li>
+        <a class="post-title" href="{{ site.baseurl }}{{ post.url }}">
+              {{ post.title }}
+        </a>&nbsp;
+        <span class="meta">
+          <small class="date">
+            <time datetime="{{ post.date | datetime | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%b %e, %Y" }}</time>
+          </small>
+        </span>
+      </li>
+      {% endfor %}
+    </ul>
+    {% endfor %}
+  </div>
+</div>
