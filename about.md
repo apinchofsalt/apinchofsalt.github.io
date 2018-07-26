@@ -12,6 +12,20 @@ This blog is all about the good, the bad and the very very ugly. We hope it will
 
 **To find out more about us, visit our author pages.**
 
-[Scarlett](/authors/scarlett)          
+<div class="center-text">
+<div class="col-sm-push-3 col-sm-2 center-text" >
+<a href="/authors/jilly">
+<img src="/images/jilly-profile.jpg" width="128">
+<strong>Jilly</strong>
+</a>
+</div>
 
-[Jilly](/authors/jilly)
+
+<div class="col-sm-push-4 col-sm-2 center-text">
+<a href="/authors/scarlett">
+<img src="/images/scarlett-profile-round.jpg" width="128">
+<strong>Scarlett</strong>
+</a>
+</div>
+</div>
+

@@ -86,3 +86,7 @@ li.post-title {
 #main-wrapper img {
     margin: 12px;
 }
+
+.center-text {
+    text-align: center;
+}
