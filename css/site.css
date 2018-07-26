@@ -49,6 +49,10 @@ article .meta {
     margin: .2em .3em;
 }
 
+ul.tags-expo-posts {
+    list-style: none;
+}
+
 .post-tag {
     display: inline-block;
     background: rgba(106,159,181,0.15);

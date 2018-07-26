@@ -11,4 +11,6 @@ Scarlett and I have bonded over our realistic approach to motherhood and that no
 
 Hope you enjoy our blog and let us know if there are any topics you would like covered! And remember, take us with a Pinch of Salt. 
 
+**My Posts**
+
 {% include authorposts.html %}

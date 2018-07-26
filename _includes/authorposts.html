@@ -1,17 +1,19 @@
-<ul>
+<ul class="tags-expo-posts">
 
     {% for post in site.posts reversed %} 
     {% if post.layout == 'post' %} 
     {% if post.author == page.author %}
-    <li class="post-title">
+    <li>
+        <a class="post-title" href="{{ site.baseurl }}{{ post.url }}">
+              {{ post.title }}
+        </a>&nbsp;
         <span class="meta">
-            <small class="date">
-                <span datetime="{{ post.date | datetime | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%b %e, %Y" }}</span>
-            </small>
+          <small class="date">
+            <time datetime="{{ post.date | datetime | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%b %e, %Y" }}</time>
+          </small>
         </span>
-        <a href="{{post.url}}">{{ post.title }}</a>
-    </li>
-    {% endif %} 
+      </li>
+      {% endif %} 
     {% endif %} 
     {% endfor %}
 

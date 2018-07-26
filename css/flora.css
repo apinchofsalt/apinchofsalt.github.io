@@ -388,7 +388,7 @@ a img {
     padding: 15px;
 }
 #main-wrapper {
-    width: 66%;
+    width: 100%; /* Change to 66% when sidebar is re-instated */
     float: left;
     margin: 0px;
     padding: 0px 0px 0px 0px;
