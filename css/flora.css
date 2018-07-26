@@ -199,7 +199,7 @@ a img {
     border-width: 0
 }
 .top-bar {
-    background-image: url(http://hand-crafted-joy.eppearance.pl/wp-content/themes/hand-crafted-joy/img/Top%20Stripe.png);
+    background-image: url(../images/TopStripe.png);
     background-repeat: no-repeat;
     background-position: top;
     background-size: cover;
@@ -213,7 +213,7 @@ a img {
     float: left;
     display: inline-block;
     font-size: 20px;
-    background-image: url(http://hand-crafted-joy.eppearance.pl/wp-content/themes/hand-crafted-joy/img/social-bg.png);
+    background-image: url(../images/social-bg.png);
     background-repeat: no-repeat;
     width: 34px;
     height: 34p;
@@ -259,7 +259,7 @@ a img {
     color: #696969;
 }
 #header h1 a:before {
-    background: url(https://3.bp.blogspot.com/-C6Kh_uSsIw4/WFxxievADEI/AAAAAAAABKo/YTErhZH26N0DkfTie5QddrlhKjevLkZeACLcB/s1600/flora.png);
+    background: url(../images/flora.png);
     height: 100px;
     width: 77px;
     content: '';
@@ -268,7 +268,7 @@ a img {
     margin-right: 5px;
 }
 #header h1 a:after {
-    background: url(https://3.bp.blogspot.com/-C6Kh_uSsIw4/WFxxievADEI/AAAAAAAABKo/YTErhZH26N0DkfTie5QddrlhKjevLkZeACLcB/s1600/flora.png);
+    background: url(../images/flora.png);
     height: 100px;
     width: 74px;
     content: '';
@@ -302,7 +302,7 @@ a img {
     color: #d6a43c!important;
 }
 .nav {
-    background-image: url(http://hand-crafted-joy.eppearance.pl/wp-content/themes/hand-crafted-joy/img/Menu%20Background.png);
+    background-image: url(../images/MenuBackground.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
@@ -720,7 +720,7 @@ div#copyrights {
     position: relative;
 }
 .footer-golden {
-    background-image: url(http://hand-crafted-joy.eppearance.pl/wp-content/themes/hand-crafted-joy/img/Golden%20Texture%20footer.png);
+    background-image: url(../images/GoldenTexturefooter.png);
     background-repeat: no-repeat;
     width: 601px;
     height: 166px;
