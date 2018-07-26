@@ -82,3 +82,7 @@ ul.tags-expo-posts {
 li.post-title {
     list-style-type: none;
 }
+
+#main-wrapper img {
+    margin: 12px;
+}
