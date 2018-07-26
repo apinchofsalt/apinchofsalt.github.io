@@ -16,7 +16,7 @@
 title: Pinch of Salt
 email: blog@pinchofsalt.me
 description: > # this means to ignore newlines until "baseurl:"
-  Motherhood without the sweetener!
+  Motherhood without the sweetener
 baseurl: "" # the subpath of your site, e.g. /blog
 url: http://pinchofsalt.me # the base hostname & protocol for your site, e.g. http://example.com
 excerpt_link: "Continue reading"
