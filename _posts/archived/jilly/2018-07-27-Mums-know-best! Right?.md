@@ -1,3 +1,13 @@
+---
+layout: post
+title: "Mums know best! Right?
+date: 2018-07-27
+comments: false
+disqus_identifier: 4
+categories: [First days]
+author: "Jilly"
+---
+
 Growing up you always hear, “Mum knows best” but how do you get to that point. 
 
 I read my first parenting book “The Contended Baby” a few days before my due date and I felt like a complete failure for not doing it early. I took notes and tried to commit all the helpful to mind. I then read a book about birth and realised, maybe I should have written a birth plan. So I quickly wrote a birth plan thinking I was only days away from labour….NOT! We had another 20 to go.  
