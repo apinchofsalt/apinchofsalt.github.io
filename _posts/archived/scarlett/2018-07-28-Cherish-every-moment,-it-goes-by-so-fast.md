@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cherish every moment, it goes so fast"
-date: 2018-06-23 2015
+date: 2018-07-28
 comments: false
 disqus_identifier: 4
 categories: [first days]
