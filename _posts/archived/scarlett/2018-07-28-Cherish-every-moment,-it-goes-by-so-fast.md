@@ -4,7 +4,7 @@ title: "Cherish every moment, it goes so fast"
 date: 2018-07-28
 comments: false
 disqus_identifier: 4
-categories: [first days]
+categories: [First days]
 author: "Scarlett"
 ---
 
