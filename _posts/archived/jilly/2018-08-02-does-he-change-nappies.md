@@ -4,7 +4,7 @@ title: "Does he change nappies?"
 date: 2018-08-02
 comments: false
 disqus_identifier: 4
-categories: [dads]
+categories: [Dads, Parenting]
 author: "Jilly"
 ---
 Before I became a mum I would hear about the low expectations on dads, but now that I am a mum I am even more astounded by the low expectations held by society for dads. I have a brilliant partner. He helps with everything and has from day one. There has never been a middle of the night wake up that he didn’t wake up for. People say I’m lucky but I stand by the fact that I chose to have a baby with someone I trusted and I knew he would be a great dad. 
