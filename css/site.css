@@ -158,3 +158,22 @@ form .btn, form button, input[type=submit] {
     text-align: center;
     text-decoration: none;
 }
+
+.entry-comments .section-title, .entry-related .section-title {
+    font-size: 1.563em;
+    /* margin-top: 4rem;
+    padding-top: 1rem; */
+    position: relative;
+}
+
+.comment {
+    font-size: .8em;
+    margin-bottom: 4em;
+    padding-left: 4.5em;
+    position: relative;
+}
+
+.comment.child {
+    margin-left: 4.5em;
+}
+
