@@ -2,10 +2,10 @@
 layout: post
 title: "Mums know best! Right?"
 date: 2018-07-27
-comments: false
-disqus_identifier: 4
 categories: [First days]
 author: "Jilly"
+comments: true
+comments_locked: false
 ---
 
 Growing up you always hear, “Mum knows best” but how do you get to that point. 
