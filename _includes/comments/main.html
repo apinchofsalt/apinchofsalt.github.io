@@ -1,12 +1,4 @@
 {% unless thePost.comments == false %}
-<div class="comment-section">
-
-	<h2>Comments</h2>
-
-    {% include comments/comment-form.html %}
-    
-</div>
-{% endunless %}
 
 <div class="entry-comments">
     {% if site.repository %}
@@ -32,6 +24,8 @@
         <!-- End static comments -->
       {% endif %}
   
-      {% include comment-form.html %}
+      {% include comments/comment-form.html %}
     {% endif %}
-  </div>
+</div>
+
+{% endunless %}
