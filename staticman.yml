@@ -85,5 +85,5 @@ comments:
       # reCaptcha
   reCaptcha:
     enabled: true
-    siteKey: "6LdRBykTAAAAAFB46MnIu6ixuxwu9W1ihFF8G60Q"
-    secret: "PznnZGu3P6eTHRPLORniSq+J61YEf+A9zmColXDM5icqF49gbunH51B8+h+i2IvewpuxtA9TFoK68TuhUp/X3YKmmqhXasegHYabY50fqF9nJh9npWNhvITdkQHeaOqnFXUIwxfiEeUt49Yoa2waRR7a5LdRAP3SVM8hz0KIBT4="
+    siteKey: "6LcUYWgUAAAAAHnr2v-9KHA1SANdRNbikn39Cz6V"
+    secret: "i9/MJ9CZMGayIpzCd3vUGkYcRtJLypCeH8q2q7pEK20owWrzxMMAt5yFfFvOi4hE9uHlHRtSwQEUeiN8nxEp2L2NXkoBpemRwKXzZzc+aQt57PBrHv9eoMh6RreVWq/ivuoy9RU3wMcluKHLrobdlFhaFTycqjo6QJEG+CgSoeA="

@@ -18,7 +18,7 @@ email: blog@pinchofsalt.me
 description: > # this means to ignore newlines until "baseurl:"
   Motherhood without the sweetener
 baseurl: "" # the subpath of your site, e.g. /blog
-url: http://pinchofsalt.me # the base hostname & protocol for your site, e.g. http://example.com
+url: https://pinchofsalt.me # the base hostname & protocol for your site, e.g. http://example.com
 repository: apinchofsalt/apinchofsalt.github.io
 excerpt_link: "Continue reading"
 #twitter_username: 
@@ -48,4 +48,4 @@ exclude:
 # reCAPTCHA keys
 reCaptcha:
   siteKey: "6LcUYWgUAAAAAHnr2v-9KHA1SANdRNbikn39Cz6V"
-  secret: "Ebevexyi8ZEcyYsuPnGSB91DqERR13/vZm712frduj8CJxKJmh57f2A02i577oaqoHEV7Zf2gxyg9+tIkmx+J9mzT1SUbfxrKefwbN9eIQl3YeAixSJllN5qowGEvS5IreHJbkgB0Nq3VXJiEVF/Oc6PcKkMNcGOEX35b9tktAg="
+  secret: "i9/MJ9CZMGayIpzCd3vUGkYcRtJLypCeH8q2q7pEK20owWrzxMMAt5yFfFvOi4hE9uHlHRtSwQEUeiN8nxEp2L2NXkoBpemRwKXzZzc+aQt57PBrHv9eoMh6RreVWq/ivuoy9RU3wMcluKHLrobdlFhaFTycqjo6QJEG+CgSoeA="
