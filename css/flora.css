@@ -885,7 +885,7 @@ img.comment_emo {
     width: 0px;
     height: 0;
 }
-.comment_name a {
+.comment_name, .comment_name a {
     text-transform: capitalize;
     color: #111;
     text-decoration: none;
@@ -894,6 +894,7 @@ img.comment_emo {
     letter-spacing: -0.025em;
     line-height: 23px;
     font-family: "Roboto", "Arial", sans-serif;
+    text-decoration: none;
 }
 .comment_name a:hover {
     color: #0088b2;
