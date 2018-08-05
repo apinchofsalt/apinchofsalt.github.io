@@ -3,4 +3,11 @@
 	Posted by <a href="/authors/{{thePost.author | downcase}}/"> {{ thePost.author }} </a>
 	<span class="date">{% include post/date.html %}{{ time }}</span>
 	<span class="tags">{% include post/categories.html %}</span>
+	{% unless thePost.comments == false %}
+	<span class="comment-count">
+		<a href="{{thePost.url}}#comments">
+		{{ site.data.comments[thePost.slug] | size | append: ' ' }} Comment{% if site.data.comments[page.slug].size != 1 %}s{% endif %}
+		</a>
+	</span>
+	{% endunless %}
 </div>
