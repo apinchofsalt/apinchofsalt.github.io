@@ -44,3 +44,8 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+
+# reCAPTCHA keys
+reCaptcha:
+  siteKey: "6LcUYWgUAAAAAHnr2v-9KHA1SANdRNbikn39Cz6V"
+  secret: "Ebevexyi8ZEcyYsuPnGSB91DqERR13/vZm712frduj8CJxKJmh57f2A02i577oaqoHEV7Zf2gxyg9+tIkmx+J9mzT1SUbfxrKefwbN9eIQl3YeAixSJllN5qowGEvS5IreHJbkgB0Nq3VXJiEVF/Oc6PcKkMNcGOEX35b9tktAg="

@@ -20,7 +20,7 @@
       <div class="form-group">
         <label class="sr-only" for="comment-form-message"><strong>Comment</strong> <small>(<a href="https://kramdown.gettalong.org/quickref.html">Markdown</a> is allowed)</small></label>
         <textarea type="text" rows="6" id="comment-form-message" name="fields[message]" required spellcheck="true" placeholder="Comment (Markdown is allowed)"></textarea>
-        <p class="help-block">You can use <a href="https://en.support.wordpress.com/markdown-quick-reference/">Markdown</a> to format your message</p>
+        <p class="markdown-help-block">You can use <a href="https://en.support.wordpress.com/markdown-quick-reference/">Markdown</a> to format your message</p>
       </div>
       <div class="form-group hidden" style="display: none;">
         <input type="hidden" name="options[origin]" value="{{ page.url | relative_url }}">
@@ -46,7 +46,7 @@
     </form>
   </div>
   <!-- End new comment form -->
-  <!-- <script async src="https://www.google.com/recaptcha/api.js"></script> -->
+  <script async src="https://www.google.com/recaptcha/api.js"></script>
 {% else %}
   <p><em>Comments are closed. If you have a question concerning the content of this page, please feel free to <a href="/contact/">contact me</a>.</em></p>
 {% endunless %}
