@@ -819,6 +819,8 @@ div#copyrights {
 .comment-hold {
     margin: 0px 0px 80px 0px;
 }
+/* 
+SL:
 #comments h3 {
     font-size: 28px;
     letter-spacing: .5px;
@@ -830,7 +832,7 @@ div#copyrights {
     float: left;
     width: 100%;
     font-family: "Lilita One", Georgia, serif;
-}
+} */
 .comment-body-author {
     background: #FFFFFF;
     color: #008000;
