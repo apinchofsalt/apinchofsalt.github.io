@@ -49,3 +49,6 @@ exclude:
 reCaptcha:
   siteKey: "6LcUYWgUAAAAAHnr2v-9KHA1SANdRNbikn39Cz6V"
   secret: "i9/MJ9CZMGayIpzCd3vUGkYcRtJLypCeH8q2q7pEK20owWrzxMMAt5yFfFvOi4hE9uHlHRtSwQEUeiN8nxEp2L2NXkoBpemRwKXzZzc+aQt57PBrHv9eoMh6RreVWq/ivuoy9RU3wMcluKHLrobdlFhaFTycqjo6QJEG+CgSoeA="
+
+# Google Analytics
+googleTrackingId: UA-123496830-1

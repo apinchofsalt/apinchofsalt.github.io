@@ -29,6 +29,10 @@ article .meta {
     padding-bottom: 4px;
 }
 
+article p {
+    text-align: justify;
+}
+
 .meta .date:before { font: 1em FontAwesome;content: "\f073"; margin-left: 12px; }
 .meta .tags { padding-left: 6px; }
 .meta .tags:before { font: 1em FontAwesome;content: "\f02c"; margin-left: 12px; }
