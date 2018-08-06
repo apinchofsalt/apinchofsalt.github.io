@@ -863,7 +863,7 @@ img.comment_emo {
 .comment_avatar {
     height: 48px;
     width: 48px;
-    background: #F0F0F0 url(http://2.bp.blogspot.com/-KjVxDap0Bzs/Uc7Jfm_9VWI/AAAAAAAAEqs/jD56hYNIm88/s48/anon48.gif) no-repeat center center;
+    background: #F0F0F0 url(../images/anon48.gif) no-repeat center center;
     float: left;
     margin-right: 10px;
     -webkit-border-radius: 6px;
@@ -1072,8 +1072,8 @@ a.comment_reply {
     display: block;
     width: 18px;
     height: 9px;
-    background: url(http://4.bp.blogspot.com/-_VlXxLi-qDE/UjAI-0V0uhI/AAAAAAAAFXs/RN-kNnRHAqc/s1600/comment-arrow2.png) no-repeat;
-    position: absolute;
+    /* background: url(http://4.bp.blogspot.com/-_VlXxLi-qDE/UjAI-0V0uhI/AAAAAAAAFXs/RN-kNnRHAqc/s1600/comment-arrow2.png) no-repeat;
+    position: absolute; */
     margin-top: -29px;
     margin-left: -5px;
 }
