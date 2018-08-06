@@ -2,10 +2,10 @@
 layout: post
 title: "Don't grow up. Seriously."
 date: 2018-08-04
-comments: false
-disqus_identifier: 4
 categories: [Emotions]
 author: "Scarlett"
+comments: true
+comments_locked: false
 ---
 
 
