@@ -2,14 +2,11 @@
 layout: post
 title: "Cherish every moment, it goes so fast"
 date: 2018-07-28
-comments: false
-disqus_identifier: 4
 categories: [First days]
 author: "Scarlett"
+comments: true
+comments_locked: false
 ---
-
-
-
 
 Angus arrived after fifty-two hours of exhausting and excruciating labour. I had transferred from a midwife led unit where I planned to have my perfect water birth, zoning out and using my hypnobirthing tracks to the labour ward of our local hospital where I was injected with an epidural and stuck to the bed, willing the hormone drip to get me to 10cms so I could finally meet my baby. At 9.30pm on the 13th February this year he finally arrived and my goodness he was worth the wait. People say that the feeling when the Midwife places your tiny human on your chest is indescribable and they are right. Euphoria and sweet relief course through your veins and it truly is  pure magic. 
 
