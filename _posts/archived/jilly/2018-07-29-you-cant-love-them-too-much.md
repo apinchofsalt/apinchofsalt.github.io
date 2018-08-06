@@ -2,11 +2,12 @@
 layout: post
 title: "You can't love them too much"
 date: 2018-07-29
-comments: false
-disqus_identifier: 4
 categories: [Sleep]
 author: "Jilly"
+comments: true
+comments_locked: false
 ---
+
 
 After two weeks at home with our new baby, we were finally alone with her. The parents had gone and we were just our little family. I started researching routines because every baby needs a routine or else... You should put your baby down when they are tired but not asleep or crying, that sounds easy enough, NOT! You shouldn’t feed them to sleep because then they will always want food before sleep. But I didn’t want to do these things. I wanted to pick her up when she cried, even if it was just a whimper. I wanted to rock her to sleep or feed her to sleep. But my research came to a halt when I found the following quote:
 
