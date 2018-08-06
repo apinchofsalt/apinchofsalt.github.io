@@ -16,7 +16,7 @@
   {% if jekyll.environment == 'development' %}
   <script src="/js/live.js"></script>
   {% endif %}
-  {% if jekyll.environment == 'production'}
+  {% if jekyll.environment == 'production'%}
   <script async src="https://www.googletagmanager.com/gtag/js?id=googleTrackingId"></script>
   <script>
   window.dataLayer = window.dataLayer || [];
@@ -25,4 +25,5 @@
 
   gtag('config', '{{site.googleTrackingId}}');
   </script>
+  {% endif %}
 </head>
