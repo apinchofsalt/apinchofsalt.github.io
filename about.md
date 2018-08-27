@@ -2,7 +2,7 @@
 layout: page
 ---
 
-We are Scarlett and Jilly, just a couple of mums trying to survive. We met about halfway through our pregnancies at Saturday morning Pregnancy Yoga. Our yoga instructor (Hazel) was absolutely brilliant and gave us time to meet other mums and find sometime for ourselves. We are both Teachers by trade and taught the same year group. 
+We are Scarlett and Jilly, just a couple of mums trying to survive. We met about halfway through our pregnancies at Saturday morning Pregnancy Yoga. Our yoga instructor, Hazel with [Access to Yoga](http://www.accesstoyoga.co.uk/), was absolutely brilliant and gave us time to meet other mums and find sometime for ourselves. We are both Teachers by trade and taught the same year group. 
 
 After having our babies it took awhile to meet up but when we finally did we had something new in common...we were both realistic mums. There were days when we were down and there were days when we felt we could conquer the world. Upon our second meeting we came to the conclusion that these mums who are happy and put together all the time must be lying (or worse hiding their own struggles). So we decided we should get our honest message out there. 
 
