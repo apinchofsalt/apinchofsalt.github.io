@@ -2,7 +2,7 @@
 layout: post
 title: "Milky, milky, oi, oi, oi! Part 1"
 date: 2018-08-27
-categories: [Breastfeeding, Emotions, First Days]
+categories: [Breastfeeding, Emotions, First days]
 author: "Jilly"
 comments: true
 comments_locked: false
