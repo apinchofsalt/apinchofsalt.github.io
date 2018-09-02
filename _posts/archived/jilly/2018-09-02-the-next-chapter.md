@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The next chapter"
+title: "The Next Chapter"
 date: 2018-09-02
 categories: [Emotions]
 author: "Jilly"
