@@ -1,0 +1,28 @@
+---
+layout: post
+title: "Milky, milky, milky! Oi, oi, oi! Part 2"
+date: 2018-09-23
+categories: [Breastfeeding, Emotions, First days]
+author: "Jilly"
+comments: true
+comments_locked: false
+---
+
+* [Milky, milky, milky! Part One](https://pinchofsalt.me/archive/2018/08/27/milky-milky-milky-oi-oi-oi-pt-1/)
+* [Milky, milky, milky! Part Two](https://pinchofsalt.me/archive/2018/09/23/milky-milky-milky-oi-oi-oi-pt-2/)
+
+Welcome milk! My boobs were looking great. I felt like I had left the hospital with a boob job. But there was a huge draw back …they would spring a leak! From my research, I knew that I would feel engorged at times and that I would probably leak which is why breast pads are essential. After having a baby I could return to sleeping on my stomach but oh my goodness would my back hurt as these things grew and I would wake up in a puddle of milk. 
+
+Also I naively thought that milk comes out of one hole…man was that wrong. How many different directions can this stuff go in? I would wake up in the morning, have a warm shower and uh oh milk all over the shower. How do you turn these things off? Or even better I wouldn’t spring a leak in the shower but I would get out feel fresh and then baby would cry, I would get the ‘milk is coming’ sensation and BAM! There it was all over me and the floor. I found myself forever cleaning up my mess off the floor. With the nipple shields it contained the squirting and baby could control how much she was taking so I didn’t notice how much was coming out while feeding. 
+
+Breastfeeding is a weird thing because you measure the amount your child takes based on time. My baby was never a long feeder but she always seemed full so I never got too concerned with making sure she fed for 20 minutes or whatever the average is. You kind of wish there was a gauge on the side of your boob telling you how much is there. 
+
+After a few weeks, I went to a Baby Massage class with Daisy Foundation and Pippa was to the rescue again. I wanted to stop using the nipple shields because I wanted the health benefits for baby and it is so much easier not using them in public. If you’ve never seen them before they are essentially very large nipples. It felt a bit funny, especially as a new mum, sitting there with these massive looking nipples sticking out through my shirt before feeding.  Pippa was able to come to my house and gave me some help to wean us from using them. I say us because it was so much easier for me because she would cry and there was never an issue with latching. So my job was much easier with them. 
+
+To start the weaning process I had to start feeding her with the shields and then taking them off mid feed and letting her continue without. She struggles to latch especially when I was very full. After a couple days we were only using the shields for the first couple feeds and then after about a week we were nipple shield free. But there were some things to get used to. Was it normal for it to hurt like this? Was it normal to squirt my baby in the face with milk so often? Poor little lamb would spend her morning feeds covered in a shower of milk. Then she would cry and I would be covered in milk trying to control it with a muslin and comfort a crying baby. I will never forget the look on my friends face when came over and experienced this but couldn’t see what was happening. Priceless! 
+
+Feeding in public takes a lot of getting used to. You hear horror stories about people being told not to do it or getting dirty looks. But I never experienced any of this. People were so nice and in some cases too nice. I had an older man comment that he wished he could sleep the way my baby was, yup on my boobs! His wife wasn’t pleased. But entertaining nonetheless. I also had a woman tell me how pleased she was seeing me breastfeed in public because it isn’t something we should be ashamed to do. You just need to be confident and know that what you are doing is a normal thing and if people want to make it into something it isn’t that is their problem.
+
+Breastfeeding takes time to learn and isn’t something that everyone can do or want to do. There are many reasons you may not want to do it. I think breastfeeding only works if everyone is happy with it. It can be extremely demanding and sometimes you feel like all the responsibility is on you. You are the only one who can calm them down sometimes and the only one who can get up in the middle of the night and feed them. You timetable your days around feeds, you can struggle to go on nights out if you haven’t found a bottle your baby will take. You may have to adjust your diet depending on your baby. I have always been a ‘fed baby is best’ advocate. Never force yourself to do something that will bring you down and can ultimately lead you down a dark path. Do what’s right for you and your baby. 
+
+That being said, it definitely worked for me but it was tough going for the first three months. Thanks to all the support I received I have kept with it. It meant I didn’t have to think about bottles when I went out, or sterilising bottles or making a bottle at night. I just needed to make sure I was armed and loaded with a muslin and boob. It has just become a way of life and now we are at the self-service stage. She will literally try to pull my top down and get on them. She knows where her food comes from and how to get it. People often ask “When will you stop?” The honest answer is I don’t know. When we are both ready. I often say 1 year, but we might prolong it for however long it keeps working. Now that I am back at work we have a new challenge of keeping the milk production up and expressing throughout the day while getting work done. 
