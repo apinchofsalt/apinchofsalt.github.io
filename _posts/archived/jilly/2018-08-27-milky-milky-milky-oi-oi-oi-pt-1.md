@@ -8,6 +8,9 @@ comments: true
 comments_locked: false
 ---
 
+* [Milky, milky, milky! Part One](https://pinchofsalt.me/archive/2018/08/27/milky-milky-milky-oi-oi-oi-pt-1/)
+* [Milky, milky, milky! Part Two](https://pinchofsalt.me/archive/2018/09/23/milky-milky-milky-oi-oi-oi-pt-2/)
+
 When we found out we were pregnant, we decided to take an antenatal class. We knew nothing about babies. Neither of us had 
 every changed a nappy before and didn’t know the first thing about what a baby needs. So we decided to book onto 
 [Daisy Foundation’s Daisy Parent workshop](https://thedaisyfoundation.com/daisy-parent/). Pippa was an absolute godsend. She gave us information on everything we needed to know from
